@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ee0679188ac1e24e9cd633291369f5e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185980
+  packageName: LaunchURLWebGL
+  packageVersion: 1.0
+  assetPath: Assets/MarksAssets/LaunchURLWebGL/Example/LaunchURLWebGL.unity
+  uploadId: 435267

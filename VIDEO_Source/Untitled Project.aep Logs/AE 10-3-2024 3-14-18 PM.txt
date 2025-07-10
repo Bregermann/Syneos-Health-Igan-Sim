@@ -1,0 +1,17 @@
+Adobe After Effects v24.6.2 Windows 64 render log for project “Untitled Project.aep”
+
+Rendering started on 10/3/2024 at 3:14:18 PM
+
+  10/3/2024 3:14:18 PM: Starting composition “FRAME_9_TRACKED”.
+
+  Output To: C:\Users\Jason\GSW_PROJECTS\GSW OTSUKA MOD\Assets\Video\FRAME_9_TRACKED.mp4    10/3/2024 3:14:22 PM: Finished composition “FRAME_9_TRACKED”.
+
+
+  10/3/2024 3:14:22 PM: Starting composition “FRAME_9_TRACKED”.
+
+  Output To: C:\Users\Jason\TRS_PROJECTS\Po9_TRS_TMRW2024_LiveTicker\Recordings\FRAME_9_TRACKED.mp4    10/3/2024 3:14:26 PM: Finished composition “FRAME_9_TRACKED”.
+
+
+  Total Time Elapsed: 8 Seconds
+Log closed on 10/3/2024 at 3:14:26 PM
+
