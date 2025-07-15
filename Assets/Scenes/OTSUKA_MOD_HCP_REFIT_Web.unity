@@ -12346,7 +12346,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: MARK
+  m_text: "\u9A6C\u514B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -12355,7 +12355,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -17134,7 +17134,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SARAH
+  m_text: "\u838E\u62C9"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -17143,7 +17143,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -37842,7 +37842,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1793665820}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.22399956}
+  m_AnchorMin: {x: 0, y: 0.96507204}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -39564,8 +39564,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1499775271}
   m_HandleRect: {fileID: 1499775270}
   m_Direction: 2
-  m_Value: 0.9999997
-  m_Size: 0.77600044
+  m_Value: 1
+  m_Size: 0.03492765
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -47656,7 +47656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CARLOS
+  m_text: "\u5361\u6D1B\u65AF"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -47665,7 +47665,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -51171,7 +51171,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6482586631fab0b419d3197dcc863094, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 25bbefc0ab89cda4db54cb5967ed10f1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
