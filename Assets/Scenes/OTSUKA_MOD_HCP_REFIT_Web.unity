@@ -2057,7 +2057,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Learn more about the role of APRIL and \Lother cytokines in B-cell development."
+  m_text: "\u4E86\u89E3\u66F4\u591A\u5173\u4E8EAPRIL\u548C\u5176\u4ED6\u7EC6\u80DE\u56E0\u5B50\n\u5728B\u7EC6\u80DE\u53D1\u80B2\u4E2D\u7684\u4F5C\u7528\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d36acfb6ffe2f3b47a67ffed6f604e4d, type: 2}
   m_sharedMaterial: {fileID: -5666073722038577474, guid: d36acfb6ffe2f3b47a67ffed6f604e4d, type: 2}
@@ -2634,7 +2634,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<b>Reference: 1.</b> Rajasekaran A, et al. <i>Am J Med Sci.</i> 2021;361:176-194. '
+  m_text: "<b>\u53C2\u8003\u6587\u732E: 1.</b> Rajasekaran A, et al. <i>Am J Med
+    Sci.</i> 2021;361:176-194. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -4167,7 +4168,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: <u>Terms of Use</u>
+  m_text: "<u>\u4F7F\u7528\u6761\u6B3E</u>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4891,7 +4892,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: B cells play an important role in IgAN pathogenesis<sup>1</sup>
+  m_text: "B\u7EC6\u80DE\u5728IgA\u80BE\u75C5\u53D1\u75C5\u673A\u5236\u4E2D\u53D1\u6325\u91CD\u8981\u4F5C\u7528<sup>1</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -5441,8 +5442,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: IgAN leads to kidney injury through the <color=#E8B971><b>4-hit process</b></color>
-    that starts in mucosal tissues where B cells reside.<sup>1</sup>
+  m_text: "IgA\u80BE\u75C5\u901A\u8FC7 <color=#E8B971><b>\u56DB\u91CD\u6253\u51FB\u8FC7\u7A0B</b></color>
+    \u5BFC\u81F4\u80BE\u810F\u635F\u4F24\uFF0C\u8BE5\u8FC7\u7A0B\u59CB\u4E8EB\u7EC6\u80DE\u6240\u5728\u7684\u7C98\u819C\u7EC4\u7EC71<sup>1</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -5653,7 +5654,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antibody class switching and IgA production
+  m_text: "\u6297\u4F53\u7C7B\u522B\u8F6C\u6362\u548CIgA\u751F\u6210"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -6675,8 +6676,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<color=#E8B971>APRIL drives the production of \nGd-IgA1,</color> a pathogenic
-    form of IgA that enters into circulation.<sup>1</sup>"
+  m_text: "<color=#E8B971>APRIL\u4FC3\u8FDBGd-IgA1\u7684\u4EA7\u751F\uFF0C</color>\u5373\u4E00\u79CD\u81F4\u75C5\u6027IgA\uFF0C\u8FDB\u800C\u8FDB\u5165\u5FAA\u73AF<sup>1</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -7565,7 +7565,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -8172,7 +8172,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<b>Reference: 1.</b> Lai KN, et al. <i>Nat Rev Dis Primers.</i> 2016;2:16001.'
+  m_text: "<b>\u53C2\u8003\u6587\u732E: 1.</b> Lai KN, et al. <i>Nat Rev Dis Primers.</i>
+    2016;2:16001."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -8981,11 +8982,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'IgG, immunoglobulin G.
-
-
-    <b>Reference: 1.</b> Suzuki H, et al. <i>J
-    Am Soc Nephrol.</i> 2011;22(10):1795-1803.'
+  m_text: "IgG\uFF1A\u514D\u75AB\u7403\u86CB\u767DG\u3002\n\n<b>\u53C2\u8003\u6587\u732E: 
+    1.</b> Suzuki H, et al. <i>J Am Soc Nephrol.</i> 2011;22(10):1795-1803."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -11705,7 +11703,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This can lead to kidney injury and possible kidney failure.<sup>1</sup>
+  m_text: "\u8FD9\u4F1A\u5BFC\u81F4\u80BE\u810F\u635F\u4F24\uFF0C\u5E76\u6709\u53EF\u80FD\u53D1\u5C55\u4E3A\u80BE\u8870\u7AED<sup>1</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -12131,7 +12129,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<b>Reference: 1.</b> Mathur M, et al. <i>J Clin Med.</i> 2023;12(21):6927.'
+  m_text: "<b>\u53C2\u8003\u6587\u732E: 1.</b> Mathur M, et al. <i>J Clin Med.</i>
+    2023;12(21):6927."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -13166,9 +13165,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "APRIL, a proliferation-inducing ligand.\n\n<b>References: 1.</b> Cheung
-    CK, et al. <i>Front Nephrol.</i> 2024;3:1346769. \n<b>2.</b> Vazquez MI, et al.
-    <i>Cytokine.</i> 2015;74(2):318-326."
+  m_text: "APRIL\uFF1A\u589E\u6B96\u8BF1\u5BFC\u914D\u4F53\u3002\n\n<b>\u53C2\u8003\u6587\u732E: 
+    1.</b> Cheung CK, et al. <i>Front Nephrol.</i> 2024;3:1346769. \n<b>2.</b> Vazquez
+    MI, et al. <i>Cytokine.</i> 2015;74(2):318-326."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -13823,8 +13822,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "These circulating immune \ncomplexes deposit in the glomerular mesangium
-    and lead to<sup>1</sup>:  "
+  m_text: "\u8FD9\u4E9B\u5FAA\u73AF\u514D\u75AB\u590D\u5408\u7269\u6C89\u79EF\u5728\u80BE\u5C0F\u7403\u7CFB\u819C\u533A\uFF0C\u8FDB\u800C\u5BFC\u81F4<sup>1</sup>:  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -14814,7 +14812,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: B-cell maturation
+  m_text: "B\u7EC6\u80DE\u6210\u719F"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -15375,7 +15373,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>Reference: 1.</b> Cheung CK, et al.\_<i>Front Nephrol.</i> 2024;3:1346769."
+  m_text: "<b>\u53C2\u8003\u6587\u732E: 1.</b> Cheung CK, et al.\_<i>Front Nephrol.</i>
+    2024;3:1346769."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -15718,8 +15717,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: APRIL acts as a driver of pathogenic Gd-IgA1 production and autoantibody
-    synthesis, and is an important initiating and sustaining factor in IgAN pathogenesis.<sup>1</sup>
+  m_text: "APRIL\u662F\u81F4\u75C5\u6027Gd-IgA1\u4EA7\u751F\u53CA\n\u81EA\u8EAB\u6297\u4F53\u5408\u6210\u7684\u9A71\u52A8\u56E0\u7D20\uFF0C\u540C\u65F6\u4E5F\n\u662FIgA\u80BE\u75C5\u53D1\u75C5\u673A\u5236\u4E2D\u91CD\u8981\u7684\u8D77\u59CB\n\u548C\u7EF4\u6301\u56E0\u5B50<sup>1</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -16633,11 +16631,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ECM, extracellular matrix.
-
-
-    <b>Reference: 1.</b> Suzuki H, et al.
-    <i>J Am Soc Nephrol.</i> 2011;22(10):1795-1803.'
+  m_text: "ECM\uFF1A\u7EC6\u80DE\u5916\u57FA\u8D28\u3002\n\n<b>\u53C2\u8003\u6587\u732E:
+    1.</b> Suzuki H, et al. <i>J Am Soc Nephrol.</i> 2011;22(10):1795-1803."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -16773,7 +16768,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Proliferation of mesangial cells
+  m_text: "\u7CFB\u819C\u7EC6\u80DE\u589E\u6B96"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -16909,8 +16904,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Gd-IgA1, galactose-deficient IgA1.\n\n<b>Reference: 1.</b> Cheung CK,
-    et al.\_<i>Front Nephrol.</i> 2024;3:1346769."
+  m_text: "Gd-IgA1\uFF1A\u534A\u4E73\u7CD6\u7F3A\u9677\u578BIgA1\u3002\n\n<b>\u53C2\u8003\u6587\u732E:
+    1.</b> Cheung CK, et al.\_<i>Front Nephrol.</i> 2024;3:1346769."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -18195,7 +18190,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<b>Reference: 1.</b> Cheung CK, et al. <i>Front Nephrol.</i> 2024;3:1346769. '
+  m_text: "<b>\u53C2\u8003\u6587\u732E:  1.</b> Cheung CK, et al. <i>Front Nephrol.</i>
+    2024;3:1346769. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -18382,9 +18378,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: a 25-year-old who graduated law school a few months ago and began working
-    at a law firm, was recently diagnosed with <color=#E8B971><b>immunoglobulin A
-    nephropathy, or IgAN.<sup>1</sup></b></color>
+  m_text: "25\u5C81\uFF0C\u6570\u6708\u524D\u4ECE\u6CD5\u5B66\u9662\u6BD5\u4E1A\uFF0C\u5C31\u804C\u4E8E\u4E00\u5BB6\u5F8B\u5E08\u4E8B\u52A1\u6240\uFF0C\u8FD1\u671F\u88AB\u8BCA\u65AD\u60A3\u6709
+    <color=#E8B971><b>\u514D\u75AB\u7403\u86CB\u767DA\u80BE\u75C5\uFF0C\u6216IgA\u80BE\u75C5<sup>1</sup></b>\u3002</color>\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -18582,11 +18577,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The information provided on the IgANsim website is intended for your educational
-    benefit only. It is not intended as, nor is it a substitute for, medical care
-    or advice or professional diagnosis. \nHealth care professionals should use their
-    independent judgment when reviewing \neducational resources from IgANsim. Users
-    seeking medical advice should consult with a health care professional. "
+  m_text: "IgANsim \u7F51\u7AD9\u6240\u63D0\u4F9B\u7684\u4FE1\u606F\uFF0C\u4EC5\u7528\u4E8E\u5E2E\u60A8\u4E86\u89E3\u76F8\u5173\u77E5\u8BC6\uFF0C\u65E0\u6CD5\u66FF\u4EE3\u533B\u7597\u62A4\u7406\u3001\u533B\u7597\u5EFA\u8BAE\u6216\u4E13\u4E1A\u8BCA\u65AD\u3002\n\u533B\u7597\u4E13\u4E1A\u4EBA\u5458\u67E5\u9605
+    IgANsim \u7684\u6559\u80B2\u8D44\u6E90\u65F6\uFF0C\u5E94\u7ED3\u5408\u81EA\u8EAB\u4E13\u4E1A\u5224\u65AD\u3002\u6709\u533B\u7597\u54A8\u8BE2\u9700\u6C42\u7684\u7528\u6237\uFF0C\u5E94\u54A8\u8BE2\u533B\u7597\u4E13\u4E1A\u4EBA\u5458\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23737,7 +23729,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<b>Reference: 1.</b> Mathur M, et al. <i>J Clin Med.</i> 2023;12(21):6927.'
+  m_text: "<b>\u53C2\u8003\u6587\u732E:  1.</b> Mathur M, et al. <i>J Clin Med.</i>
+    2023;12(21):6927."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -24845,7 +24838,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -27156,7 +27149,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ECM expansion
+  m_text: "ECM\u6269\u5F20"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -28382,7 +28375,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Autoantibodies bind to Gd-IgA1 and form immune complexes.<sup>1,2</sup> '
+  m_text: "\u81EA\u8EAB\u6297\u4F53\u4E0EGd-IgA1\u7ED3\u5408\uFF0C\u5BFC\u81F4\u514D\u75AB\u590D\u5408\u7269\u5F62\u6210<sup>1,2</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -29750,7 +29743,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Leading cause of CKD
+  m_text: "CKD\u7684\u4E3B\u8981\u539F\u56E0"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -30059,8 +30052,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "BCMA, B-cell maturation antigen; IgA, immunoglobulin A;\_TACI, transmembrane
-    activator and calcium-modulator and cyclophilin ligand interactor.\n<b>References:
+  m_text: "BCMA\uFF1AB\u7EC6\u80DE\u6210\u719F\u6297\u539F\uFF1BIgA\uFF1A\u514D\u75AB\u7403\u86CB\u767DA\uFF1BTACI\uFF1A\u8DE8\u819C\u6FC0\u6D3B\u5242\u548CCAML\u76F8\u4E92\u4F5C\u7528\u86CB\u767D\u3002\n<b>\u53C2\u8003\u6587\u732E:
     1.</b> Kiryluk K, et al. <i>Nat Genet.</i> 2014;46(11):1187-1196. \L<b>2.</b>
     Zhai YL, et al. <i>Medicine (Baltimore).</i> 2016;95(11):e3099. <b>3.</b> Han
     SS, et al. <i>J Am Soc Nephrol.</i> 2016;27(11):3430-3439."
@@ -30199,7 +30191,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Learn more about the role of APRIL and \Lother cytokines in B-cell development."
+  m_text: "\u4E86\u89E3\u66F4\u591A\u5173\u4E8EAPRIL\u548C\u5176\u4ED6\u7EC6\u80DE\u56E0\u5B50\n\u5728B\u7EC6\u80DE\u53D1\u80B2\u4E2D\u7684\u4F5C\u7528\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d36acfb6ffe2f3b47a67ffed6f604e4d, type: 2}
   m_sharedMaterial: {fileID: -5666073722038577474, guid: d36acfb6ffe2f3b47a67ffed6f604e4d, type: 2}
@@ -30567,7 +30559,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1200333554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30830,8 +30822,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "APRIL is an important initiating and sustaining factor of the \L4-hit
-    process\u2014the series of events that drive IgAN progression<sup>1</sup>"
+  m_text: "APRIL\u662F\u56DB\u91CD\u6253\u51FB\u8FC7\u7A0B\u7684\u91CD\u8981\u8D77\u59CB\u548C\u7EF4\u6301\u56E0\u5B50\u2014\u2014\u9A71\u52A8IgA\u80BE\u75C5\u8FDB\u5C55\u7684\u4E00\u7CFB\u5217\u4E8B\u4EF6<sup>1</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -33295,7 +33286,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Click on a patient below to explore their cases
+  m_text: "\u70B9\u51FB\u4E0B\u65B9\u7684\u60A3\u8005\u5E76\u67E5\u770B\u5176\u75C5\u4F8B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -34561,8 +34552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: APRIL is a cytokine that, along with other cytokines, binds to receptors
-    on B cells to promote B-cell development.<sup>1,2</sup>
+  m_text: "APRIL\u662F\u4E00\u79CD\u7EC6\u80DE\u56E0\u5B50\uFF0C\u4E0E\u5176\u4ED6\u7EC6\u80DE\u56E0\u5B50\u5171\u540C\u4E0EB\u7EC6\u80DE\u4E0A\u7684\u53D7\u4F53\u7ED3\u5408\uFF0C\u4FC3\u8FDBB\u7EC6\u80DE\u53D1\u80B2<sup>1,2</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -34796,7 +34786,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Survival of antibody producing B cells (plasma cells)
+  m_text: "\u4EA7\u751F\u6297\u4F53\u7684B\u7EC6\u80DE\uFF08\u6D46\u7EC6\u80DE\uFF09\u5B58\u6D3B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -36624,7 +36614,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "LEARN HOW \nIgAN PROGRESSES"
+  m_text: "\u4E86\u89E3IgA\u80BE\u75C5\u8FDB\u5C55\u60C5\u51B5"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -36971,7 +36961,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: <u>Site Map</u>
+  m_text: "<u>\u7F51\u7AD9\u5730\u56FE</u>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37107,7 +37097,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Activation of inflammatory cells and the complement system  '
+  m_text: "\u708E\u75C7\u7EC6\u80DE\u53CA\u8865\u4F53\u7CFB\u7EDF\u6FC0\u6D3B "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -38614,11 +38604,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-
-    <b>References: 1.</b> Novak J, et al. <i>Kidney Dis (Basel).</i>
-    2015;1(1):8-18. <b>2.</b> Suzuki H, et al. <i>J Am Soc Nephrol.</i> 2011;22(10):1795-1803.'
+  m_text: "\n\n<b>\u53C2\u8003\u6587\u732E:  1.</b> Novak J, et al. <i>Kidney Dis
+    (Basel).</i> 2015;1(1):8-18. <b>2.</b> Suzuki H, et al. <i>J Am Soc Nephrol.</i>
+    2011;22(10):1795-1803."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -40519,8 +40507,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Circulating Gd-IgA1 acts as an autoantigen, <color=#E8B971><b>triggering
-    the production of autoantibodies against Gd-IgA1.<sup>1</sup></b>
+  m_text: "\u5FAA\u73AFGd-IgA1\u4F5C\u4E3A\u81EA\u8EAB\u6297\u539F\uFF0C <color=#E8B971><b>\u53EF\u89E6\u53D1\u6297Gd-IgA1\u81EA\u8EAB\u6297\u4F53\u7684\u751F\u6210<sup>1</sup></b>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -46565,7 +46552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'APRIL specifically acts at later stages of B-cell development and promotes<sup>1-3</sup>:'
+  m_text: "APRIL\u7279\u5F02\u6027\u4F5C\u7528\u4E8EB\u7EC6\u80DE\u53D1\u80B2\u7684\u540E\u671F\u9636\u6BB5\uFF0C\u5E76\u4FC3\u8FDB<sup>1-3</sup>:"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -48580,8 +48567,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: IgAN is typically diagnosed between ages 20-40 and often leads to kidney
-    failure in 10-15 years<sup>3-6</sup>
+  m_text: "IgA\u80BE\u75C5\u901A\u5E38\u572820-40\u5C81\u4E4B\u95F4\u786E\u8BCA\uFF0C\u4E14\u901A\u5E38\u572810-15\u5E74\u5185\u5BFC\u81F4\u80BE\u8870\u7AED<sup>3-6</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -49210,7 +49196,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sarah,
+  m_text: "\u838E\u62C9\uFF0C"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -49484,8 +49470,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xA92025 Otsuka Pharmaceutical Development & Commercialization, Inc. All
-    Rights Reserved.\LMarch 2025 US.UNB.X.24.00051"
+  m_text: "\xA92025 \u5927\u51A2\u5236\u836F\u7814\u53D1\u4E0E\u5546\u4E1A\u5316\u6709\u9650\u516C\u53F8
+    \n\u4FDD\u7559\u6240\u6709\u6743\u5229\u3002\L2025 \u5E74 3 \u6708 US.UNB.X.24.00051"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -50542,8 +50528,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Through its regulation of B cells, APRIL acts in a pre-hit 1 step to drive
-    pathogenic Gd-IgA1 production and autoantibody synthesis<sup>1</sup>
+  m_text: "\u901A\u8FC7\u5176\u5BF9B\u7EC6\u80DE\u7684\u8C03\u8282\uFF0CAPRIL\u5728\u4E00\u91CD\u6253\u51FB\u524D\u6B65\u9AA4\u4E2D\u53D1\u6325\u4F5C\u7528\uFF0C\u9A71\u52A8\u81F4\u75C5\u6027Gd-IgA1\u4EA7\u751F\u53CA\u81EA\u8EAB\u6297\u4F53\u5408\u6210<sup>1</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -51375,12 +51360,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "CKD, chronic kidney disease.\n\n<b>References: 1.</b> Cheung CK, et al.
-    <i>Front Nephrol.</i> 2024;3:1346769. \n<b>2.</b> Cattran DC, et al. <i>Kidney
-    Int Rep.</i> 2023;8(12):2515-2528. <b>3.</b> Lai KN, et al. <i>Nat Rev Dis Primers.</i>
-    2016;2:16001. <b>4.</b> Caster DJ, et al. <i>Kidney Int Rep.</i> 2023;8(9):1792-1800.
-    <b>5.</b> Pitcher D, et al. <i>Clin J Am Soc Nephrol.</i> 2023;18(6):727-738.
-    <b>6.</b> Wong K, et al. <i>Lancet.</i> 2024;403(10433):1279-1289."
+  m_text: "CKD\uFF1A\u6162\u6027\u80BE\u810F\u75C5\u3002\n\n<b>\u53C2\u8003\u6587\u732E:
+    1.</b> Cheung CK, et al. <i>Front Nephrol.</i> 2024;3:1346769. \n<b>2.</b> Cattran
+    DC, et al. <i>Kidney Int Rep.</i> 2023;8(12):2515-2528. <b>3.</b> Lai KN, et
+    al. <i>Nat Rev Dis Primers.</i> 2016;2:16001. <b>4.</b> Caster DJ, et al. <i>Kidney
+    Int Rep.</i> 2023;8(9):1792-1800. <b>5.</b> Pitcher D, et al. <i>Clin J Am Soc
+    Nephrol.</i> 2023;18(6):727-738. <b>6.</b> Wong K, et al. <i>Lancet.</i> 2024;403(10433):1279-1289."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -52507,7 +52492,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -53306,7 +53291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: <u>Privacy Policy</u>
+  m_text: "<u>\u9690\u79C1\u653F\u7B56</u>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -53725,7 +53710,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: IgAN is a progressive, autoimmune chronic kidney disease<sup>1-3</sup>
+  m_text: "IgA\u80BE\u75C5\u662F\u4E00\u79CD\u8FDB\u5C55\u6027\u81EA\u8EAB\u514D\u75AB\u6027\u6162\u6027\u80BE\u810F\u75C5<sup>1-3</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
