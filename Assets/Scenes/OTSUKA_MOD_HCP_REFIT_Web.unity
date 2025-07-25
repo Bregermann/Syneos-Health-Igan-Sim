@@ -5420,7 +5420,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -720, y: -1692}
-  m_SizeDelta: {x: 1244.008, y: 297.88}
+  m_SizeDelta: {x: 1288.94, y: 297.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &209681705
 MonoBehaviour:
@@ -5443,7 +5443,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "IgA\u80BE\u75C5\u901A\u8FC7 <color=#E8B971><b>\u56DB\u91CD\u6253\u51FB\u8FC7\u7A0B</b></color>
-    \u5BFC\u81F4\u80BE\u810F\u635F\u4F24\uFF0C\u8BE5\u8FC7\u7A0B\u59CB\u4E8EB\u7EC6\u80DE\u6240\u5728\u7684\u7C98\u819C\u7EC4\u7EC71<sup>1</sup>\u3002"
+    \u5BFC\u81F4\u80BE\u810F\u635F\u4F24\uFF0C\u8BE5\u8FC7\u7A0B\u59CB\u4E8EB\u7EC6\u80DE\u6240\u5728\u7684\u7C98\u819C\u7EC4\u7EC7<sup>1</sup>\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
   m_sharedMaterial: {fileID: 2797150676281700201, guid: b1d9babd165eaed43a9f9d27708bae53, type: 2}
@@ -6144,7 +6144,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "B\u7EC6\u80DE\u5728IgA\u80BE\u75C5\u53D1\u75C5\u673A\u5236\u4E2D\u53D1\u6325\u91CD\u8981\u4F5C\u75281<sup>1</sup>"
+  m_text: "B\u7EC6\u80DE\u5728IgA\u80BE\u75C5\u53D1\u75C5\u673A\u5236\u4E2D\u53D1\u6325\u91CD\u8981\u4F5C\u7528<sup>1</sup>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
@@ -13553,7 +13553,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.24487305, y: -4.998993}
+  m_AnchoredPosition: {x: -0.24487305, y: -4.9990234}
   m_SizeDelta: {x: -117.51001, y: -127.198975}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &563762131
@@ -40333,7 +40333,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1616864513
 RectTransform:
   m_ObjectHideFlags: 0
@@ -47912,7 +47912,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u8FD9\u4E9B\u5FAA\u73AF\u514D\u75AB\u590D\u5408\u7269\u6C89\u79EF\u5728\u80BE\u5C0F\u7403\u7CFB\u819C\u533A\uFF0C\u8FDB\u800C\u5BFC\u81F41<sup>1</sup>:  "
+  m_text: "\u8FD9\u4E9B\u5FAA\u73AF\u514D\u75AB\u590D\u5408\u7269\u6C89\u79EF\u5728\u80BE\u5C0F\u7403\u7CFB\u819C\u533A\uFF0C\u8FDB\u800C\u5BFC\u81F4<sup>1</sup>:  "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
   m_sharedMaterial: {fileID: -7426860034078775840, guid: c9aa0b2d2d5a46c42b6add281d305216, type: 2}
